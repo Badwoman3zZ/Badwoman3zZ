@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I keep a cat whose name is Hundan~
+![image](https://github.com/Badwoman3zZ/niunewshouxishao/blob/main/IMG_0027.HEIC)
 I'm ambitious to be a global citizen
 -->
