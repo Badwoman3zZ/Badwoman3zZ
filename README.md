@@ -9,8 +9,7 @@ HelloWorld! This is Xiaonuo Zhao.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I keep a cat who's name is Hundan~
-- ![image](https://github.com/Badwoman3zZ/niunewshouxishao/blob/main/IMG_0027.HEIC)
+- ⚡ Fun fact: ...I keep a cat who's name is Hundan~ - ![image](https://github.com/Badwoman3zZ/niunewshouxishao/blob/main/IMG_0027.HEIC)
 I'm ambitious to be a global citizen
 
 <!--
