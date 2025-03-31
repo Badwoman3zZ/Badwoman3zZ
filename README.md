@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-HelloWorld! This is Xiaonuo Zhao. 
+HelloWorld! This is Xiaonuo Mikha'el Zhao. 
 
-- 🔭 I’m currently working on ...college freshman student
+- 🔭 I’m currently working on Colby College sophomore student
 - 🌱 I’m currently learning ...AI and math, while I decide to pursue Global Study or History as second major.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
